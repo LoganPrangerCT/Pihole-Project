@@ -1,7 +1,3 @@
-Since you want this in plaintext, I have removed the fancy formatting and HTML tags. You can copy and paste this directly into your `README.md` file on GitHub.
-
-***
-
 # Network-Wide Ad Blocking with Pi-hole
 
 ## Project Overview
